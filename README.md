@@ -51,15 +51,13 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
+🏆  2545 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 76 tasks so far           
+⏳  Longest streak is 4 days
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="saiie5" />
 
 

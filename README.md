@@ -62,15 +62,56 @@ git         1 hours       ░░░░░░░░░░░░░░░░░░
 
 ---
 
+- **Web Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+</td>
+
+</td>
+
+</tr>
 
 
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ 
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+</td>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+<tr>
+ 
+ </tr>
+</tbody>
+</table>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+- **Data Science**
+  - Data Visualization
+  - Data Analysis
+ <table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
 
-
-
-
-
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
+</td>
+</tr>
+</tbody>
+</table>

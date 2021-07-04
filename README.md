@@ -39,6 +39,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ----
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -60,58 +76,4 @@ git         1 hours       ░░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
----
 
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
-</table>
-
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
